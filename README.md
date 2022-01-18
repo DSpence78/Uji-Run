@@ -46,4 +46,4 @@
 ## NOTE
 
 	Program ini sepenuhnya dibuat oleh saya sendiri, Damar, dan tanpa mengutip source code orang lain. Jika ada pertanyaan atau hal yang ingin disampaikan dapat melalui 
-	contact yang sudah dilampirkan.
+	email yang sudah dilampirkan.
