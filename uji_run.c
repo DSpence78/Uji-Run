@@ -340,5 +340,4 @@ void main() {
     getchar();
 }
 
-// Damar Septia Nugraha
-// 222011829
+// DSpence
